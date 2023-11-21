@@ -8,7 +8,7 @@ A 3D Game Engine Written in C++.
 - 2D & 3D Rendering.
 - DirectX 12 Support.
 - Vulkan Support.
-- Mayhem Physics Engine (Also made by me :D)
+- Mayhem Engine (Our Physics Engine)
 - Written in C++.
 - Cross-Platform.
 - Build Support for Dedicated Servers.

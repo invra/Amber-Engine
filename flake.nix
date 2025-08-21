@@ -1,5 +1,5 @@
 {
-  description = "Something something something something";
+  description = "Amber-Engine Flake";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
